@@ -6,4 +6,5 @@
 * Sou estudante de programação front-end e back-end na instituição SENAI-SP.
 
 **FORMAÇÃO ACADÊMICA**
+
 Técnico em Mecânica - SENAI-RJ.
